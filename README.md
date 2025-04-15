@@ -1,7 +1,6 @@
-# Hi there, I'm Anh Duong 👋
+# [![duonganh203](https://i.imgur.com/an1XXXl.png)](#)
 
-[![duonganh203](https://i.imgur.com/an1XXXl.png)](#)
-Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
+Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
 
 
 ![](https://komarev.com/ghpvc/?username=duonganh203)
