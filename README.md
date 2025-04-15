@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 - 🔭 I’m currently working on exciting open-source projects.
 - 🌱 I’m learning advanced algorithms, system design, and cloud technologies.
 - 💬 Ask me about Java, Web Development, and Software Engineering.
-- 📫 How to reach me: [anhduong.dev@gmail.com](mailto:anhduong.dev@gmail.com)
+- 📫 How to reach me: [rankill52@gmail.com](mailto:rankill52@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and exploring new tech trends.
 
 ## 🛠️ Skills and Tools
