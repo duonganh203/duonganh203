@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 - **Languages:** Java, Python, JavaScript, TypeScript
 - **Web Development:** React, Node.js, Express.js, HTML, CSS, TailwindCSS
 - **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **DevOps:** Docker, GitHub Actions
 - **Cloud Platforms:** AWS, Google Cloud
 - **Other Tools:** Git, Postman, Visual Studio Code
 
