@@ -1,6 +1,7 @@
 # Hi there, I'm Anh Duong 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
+![](https://komarev.com/ghpvc/?username=duonganh203)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on exciting open-source projects.
