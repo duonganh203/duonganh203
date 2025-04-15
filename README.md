@@ -1,5 +1,6 @@
 # Hi there, I'm Anh Duong 👋
-![](https://imgur.com/a/MtAJuwY)
+
+[![duonganh203](https://imgur.com/a/MtAJuwY)](#)
 Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
 
 
