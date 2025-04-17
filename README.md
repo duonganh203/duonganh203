@@ -7,7 +7,7 @@ Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about 
 ![](https://komarev.com/ghpvc/?username=duonganh203)
 
 ## 💡 Projects
-Here are some of the projects I've worked on:
+<h3 alight='center'>Here are some of the projects I've worked on</h3>
 
   [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=bear)](https://github.com/duonganh203/benkyo)
   [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=bear)](https://github.com/duonganh203/course-4-u)
