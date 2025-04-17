@@ -9,13 +9,13 @@ Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about 
 ## 💡 Projects
 Here are some of the projects I've worked on:
 
-  [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=tokyonight)](https://github.com/duonganh203/benkyo)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=tokyonight)](https://github.com/duonganh203/course-4-u)
-  [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone&theme=tokyonight)](https://github.com/duonganh203/duolingo-clone)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=tokyonight)](https://github.com/duonganh203/body-up-fe)
+  [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=bear)](https://github.com/duonganh203/benkyo)
+  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=bear)](https://github.com/duonganh203/course-4-u)
+  [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone&theme=bear)](https://github.com/duonganh203/duolingo-clone)
+  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=bear)](https://github.com/duonganh203/body-up-fe)
 
 <p alight='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=duonganh203&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false' alt='git hub stats' height='195px'>   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact' alt='language stats' height='195px'>
+ <img src='https://github-readme-stats.vercel.app/api?username=duonganh203&theme=bear&hide_border=false&include_all_commits=false&count_private=false' alt='git hub stats' height='195px'>   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact' alt='language stats' height='195px'>
 </p>
 
 ## 💻 Tech Stack:
