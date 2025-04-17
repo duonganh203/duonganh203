@@ -7,14 +7,17 @@ Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about 
 ![](https://komarev.com/ghpvc/?username=duonganh203)
 
 ## 💡 Projects
-<h3 alight='center'>Here are some of the projects I've worked on</h3>
+<h4 align='center'>Here are some of the projects I've worked on</h4>
 
+<p align='center'>
   [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=bear)](https://github.com/duonganh203/benkyo)
   [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=bear)](https://github.com/duonganh203/course-4-u)
   [![Notion Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=notion-clone&theme=bear)](https://github.com/duonganh203/notion-clone)
   [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=bear)](https://github.com/duonganh203/body-up-fe)
+</p>
+  
 
-<p alight='center'>
+<p align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=duonganh203&theme=bear&hide_border=false&include_all_commits=false&count_private=false' alt='git hub stats' height='195px'>   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact' alt='language stats' height='195px'>
 </p>
 
