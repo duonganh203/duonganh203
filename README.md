@@ -11,7 +11,7 @@ Here are some of the projects I've worked on:
 
   [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=bear)](https://github.com/duonganh203/benkyo)
   [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=bear)](https://github.com/duonganh203/course-4-u)
-  [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone&theme=bear)](https://github.com/duonganh203/duolingo-clone)
+  [![Notion Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=notion-clone&theme=bear)](https://github.com/duonganh203/notion-clone)
   [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=bear)](https://github.com/duonganh203/body-up-fe)
 
 <p alight='center'>
