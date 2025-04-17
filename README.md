@@ -9,13 +9,13 @@ Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about 
 ## 💡 Projects
 Here are some of the projects I've worked on:
 
-  [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=catppuccin_mocha)](https://github.com/duonganh203/benkyo)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=catppuccin_mocha)](https://github.com/duonganh203/course-4-u)
-  [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone&theme=catppuccin_mocha)](https://github.com/duonganh203/duolingo-clone)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=catppuccin_mocha)](https://github.com/duonganh203/body-up-fe)
+  [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=tokyonight)](https://github.com/duonganh203/benkyo)
+  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=tokyonight)](https://github.com/duonganh203/course-4-u)
+  [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone&theme=tokyonight)](https://github.com/duonganh203/duolingo-clone)
+  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=tokyonight)](https://github.com/duonganh203/body-up-fe)
 
 <p alight='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false' alt='git hub stats' height='195px'>   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact' alt='language stats' height='195px'>
+ <img src='https://github-readme-stats.vercel.app/api?username=duonganh203&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false' alt='git hub stats' height='195px'>   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact' alt='language stats' height='195px'>
 </p>
 
 ## 💻 Tech Stack:
@@ -27,7 +27,5 @@ Here are some of the projects I've worked on:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
-
-![codergif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdobWdsbG4yY3Y0d2ppYXZ2andmczJ5NWFsZHpuMjBldWdiOGU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif)
 
 Thank you for visiting my profile! Have a great day! 😊
