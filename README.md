@@ -25,9 +25,9 @@ Here are some of the projects I've worked on:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
-<div align="center">
-  ---
-  ![codergif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdobWdsbG4yY3Y0d2ppYXZ2andmczJ5NWFsZHpuMjBldWdiOGU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif)
-</div>
+
+:::center
+![codergif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdobWdsbG4yY3Y0d2ppYXZ2andmczJ5NWFsZHpuMjBldWdiOGU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif)
+:::
 
 Thank you for visiting my profile! Have a great day! 😊
