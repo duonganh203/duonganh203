@@ -8,10 +8,11 @@ Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about 
 
 ## 💡 Projects
 Here are some of the projects I've worked on:
-  [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo)](https://github.com/duonganh203/benkyo)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u)](https://github.com/duonganh203/course-4-u)
-  [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone)](https://github.com/duonganh203/duolingo-clone)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe)](https://github.com/duonganh203/body-up-fe)
+
+  [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=catppuccin_mocha)](https://github.com/duonganh203/benkyo)
+  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=catppuccin_mocha)](https://github.com/duonganh203/course-4-u)
+  [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone&theme=catppuccin_mocha)](https://github.com/duonganh203/duolingo-clone)
+  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=catppuccin_mocha)](https://github.com/duonganh203/body-up-fe)
 
   
 - [**Benkyo**](https://github.com/duonganh203/benkyo) - A simple and effective flashcard application that helps you learn anything faster. Create your own flashcards or choose from pre-made decks. Study anytime, anywhere.
