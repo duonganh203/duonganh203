@@ -1,5 +1,7 @@
 # [![duonganh203](https://i.imgur.com/an1XXXl.png)](#)
 ## 💫 About Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hoa152) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhduong2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rankill52@gmail.com)
+
 Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
 
 ![](https://komarev.com/ghpvc/?username=duonganh203)
@@ -11,8 +13,8 @@ Here are some of the projects I've worked on:
 - [**Duolingo Clone**](https://github.com/duonganh203/duolingo-clone) - An clone application of Duolingo
 - [**Body Up**](https://github.com/duonganh203/body-up-fe) - On this platform, you can join a fitness community, find free workout programs, and access home workout videos for weight loss or muscle gain.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hoa152) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhduong2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rankill52@gmail.com) 
+![](https://github-readme-stats.vercel.app/api?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 Tech Stack:
 #### Language:
@@ -22,11 +24,6 @@ Here are some of the projects I've worked on:
 #### Others:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=duonganh203&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
-
+![codergif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdobWdsbG4yY3Y0d2ppYXZ2andmczJ5NWFsZHpuMjBldWdiOGU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif)
 Thank you for visiting my profile! Have a great day! 😊
