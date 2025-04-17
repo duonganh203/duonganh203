@@ -14,12 +14,6 @@ Here are some of the projects I've worked on:
   [![Duolingo Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=duolingo-clone&theme=catppuccin_mocha)](https://github.com/duonganh203/duolingo-clone)
   [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=catppuccin_mocha)](https://github.com/duonganh203/body-up-fe)
 
-  
-- [**Benkyo**](https://github.com/duonganh203/benkyo) - A simple and effective flashcard application that helps you learn anything faster. Create your own flashcards or choose from pre-made decks. Study anytime, anywhere.
-- [**Course4U**](https://github.com/duonganh203/course-4-u) - Course4U is a trusted platform for mgm employees, helping them confidently choose and register for online courses.
-- [**Duolingo Clone**](https://github.com/duonganh203/duolingo-clone) - An clone application of Duolingo
-- [**Body Up**](https://github.com/duonganh203/body-up-fe) - On this platform, you can join a fitness community, find free workout programs, and access home workout videos for weight loss or muscle gain.
-
 <p alight='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false' alt='git hub stats' height='195px'>   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact' alt='language stats' height='195px'>
 </p>
