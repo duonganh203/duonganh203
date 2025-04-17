@@ -14,7 +14,7 @@ Here are some of the projects I've worked on:
 - [**Body Up**](https://github.com/duonganh203/body-up-fe) - On this platform, you can join a fitness community, find free workout programs, and access home workout videos for weight loss or muscle gain.
 
 ![](https://github-readme-stats.vercel.app/api?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duonganh203&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
 
 ## 💻 Tech Stack:
 #### Language:
@@ -26,8 +26,6 @@ Here are some of the projects I've worked on:
 
 ---
 
-:::center
 ![codergif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdobWdsbG4yY3Y0d2ppYXZ2andmczJ5NWFsZHpuMjBldWdiOGU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif)
-:::
 
 Thank you for visiting my profile! Have a great day! 😊
