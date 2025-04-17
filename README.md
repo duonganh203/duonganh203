@@ -10,10 +10,10 @@ Hi there, I'm Anh Duong 👋 Welcome to my GitHub profile! I'm passionate about 
 <h4 align='center'>Here are some of the projects I've worked on</h4>
 
 <p align='center'>
-  [![Benkyo](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=bear)](https://github.com/duonganh203/benkyo)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=bear)](https://github.com/duonganh203/course-4-u)
-  [![Notion Clone](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=notion-clone&theme=bear)](https://github.com/duonganh203/notion-clone)
-  [![Course4U](https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=bear)](https://github.com/duonganh203/body-up-fe)
+  <a href='https://github.com/duonganh203/benkyo' target='_blank'><img src='https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=benkyo&theme=bear' alt='benkyo project'></a>
+  <a href='https://github.com/duonganh203/course-4-u' target='_blank'><img src='https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=course-4-u&theme=bear' alt='course-4-u project'></a>
+  <a href='https://github.com/duonganh203/notion-clone' target='_blank'><img src='https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=notion-clone&theme=bear' alt='notion project'></a>
+  <a href='https://github.com/duonganh203/body-up-fe' target='_blank'><img src='https://github-readme-stats.vercel.app/api/pin/?username=duonganh203&repo=body-up-fe&theme=bear' alt='body-up-fe project'></a>
 </p>
   
 
