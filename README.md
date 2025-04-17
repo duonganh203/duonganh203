@@ -26,6 +26,7 @@ Here are some of the projects I've worked on:
 
 ---
 <div align="center">
+  ---
   ![codergif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdobWdsbG4yY3Y0d2ppYXZ2andmczJ5NWFsZHpuMjBldWdiOGU5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5qUfgT4Vxwzr5nB6f/giphy.gif)
 </div>
 
